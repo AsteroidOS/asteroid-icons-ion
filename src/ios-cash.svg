@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g>
-	<rect x="40" y="368" width="432" height="16"/>
-	<rect x="48" y="400" width="416" height="16"/>
-	<g>
-		<path d="M256,168c-30.9,0-56,25.1-56,56s25.1,56,56,56s56-25.1,56-56S286.9,168,256,168z"/>
-		<path d="M32,96v256h448V96H32z M128,320H64v-16h64V320z M128,144H64v-16h64V144z M256,296c-39.7,0-72-32.3-72-72s32.3-72,72-72
-			s72,32.3,72,72S295.7,296,256,296z M448,320h-64v-16h64V320z M448,144h-64v-16h64V144z"/>
-	</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" xml:space="preserve"><path d="M40 368h432v16H40zm8 32h416v16H48zm208-232c-30.9 0-56 25.1-56 56s25.1 56 56 56 56-25.1 56-56-25.1-56-56-56z"/><path d="M32 96v256h448V96H32zm96 224H64v-16h64v16zm0-176H64v-16h64v16zm128 152c-39.7 0-72-32.3-72-72s32.3-72 72-72 72 32.3 72 72-32.3 72-72 72zm192 24h-64v-16h64v16zm0-176h-64v-16h64v16z"/></svg>
