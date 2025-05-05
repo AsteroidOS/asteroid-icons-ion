@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="ios-crop-circle.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="128.32253"
+     inkscape:cy="334.81142"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg54" />
+  <path
+     d="M256,49.375c-114.9,0-208,93.101-208,208c0,114.9,93.1,208,208,208c114.9,0,208-93.1,208-208 C464,142.476,370.9,49.375,256,49.375z M256,448.075c-105.1,0-190.7-85.5-190.7-190.7c0-105.199,85.6-190.699,190.7-190.699 c105.1,0,190.699,85.6,190.699,190.699C446.699,362.476,361.1,448.075,256,448.075z"
+     id="path42" />
+  <title
+     id="title44">ionicons-v5-k</title>
+  <path
+     fill="none"
+     d="M0 0h24v24H0z"
+     id="path50" />
+  <path
+     d="m 287.5,324.5 v 25 H 174.99999 A 12.5,12.5 0 0 1 162.5,337.00001 V 199.5 H 125 v -25 h 37.5 V 137 h 25 v 187.5 z m 25,62.5 V 199.5 H 212.49999 v -25 H 325.00001 A 12.5,12.5 0 0 1 337.5,186.99999 V 324.5 H 375 v 25 H 337.5 V 387 Z"
+     id="path52"
+     inkscape:connector-curvature="0"
+     style="stroke-width:12.49999237" />
+</svg>
